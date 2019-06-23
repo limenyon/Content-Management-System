@@ -1,0 +1,12 @@
+#largeFont {ccc font-size: 200%} 
+#outterShell {   
+	border: dashed 2px;    
+	position: relative;   /* relative to where it should be */
+	top: 100px;    
+	left:100px;    
+	color: red 
+	} 
+#insideYoke {   
+	border: solid 2px; 
+	color: green;   
+	} 

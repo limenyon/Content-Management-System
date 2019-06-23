@@ -1,0 +1,17 @@
+h2 
+  { color: #000080; font-size: 16pt; font-weight: 600;}
+
+#mainArea 
+  { color: red; position: relative; left: 20px;background: #ffe6cc;border-radius: 10px; width: 700px;padding: 5px;}
+
+#headerArea 
+{margin-left: 20px;}
+
+.fileInfo
+  {color: #000099; background: #ffffe6; width: 500px; margin-left: 20px; border: 1px solid #ebebe0; padding: 5px; border-radius: 15px; }
+
+input[type=button]
+  { color:#8000ff; position: relative; left: 20px;}
+
+#loginTitle 
+  { color: #000080; font-size: 16pt; font-weight: 600;}
